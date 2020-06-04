@@ -27,10 +27,11 @@ INTRODUCTION
   
   Sensitivity
   
+  ATTACHMENTS
   
   
   
-Solutions
+SOLUTIONS
 
 
 Gun selection : in gun selection you'll need a good loadout. Some guns doesnt have a good firing rate and have a recoil. so when ever you play always have a good loadout guns like HBr,Asm10,KN-44,AK117 has less recoil and good firing rate for close and long range. SMG's like MSMC, PWD and Pharo has good firing rate and less recoil. And some AR's have good close range better than SMG's. So always make a good loadout
@@ -48,4 +49,9 @@ MOTION SKILLSL: Motion skills is youor momemt. The main thing in this to slide a
 
 SENSITIVITY: When you increase the sensitivity you can will get a speed camera motion. When you turn the camera you can quickly do it. Make the sensitive in which you can play. In rotation mode you need to fix in fixed speed the momemt speed is set to 100 which is default in speed accelartion the speed is set to 140 the rotation. So fix your sensitive in a way where you can play. 
 in speed accelartion rotation mode when your drag your thumb from one side to another it'll move very fast. Fixed speed gives you the proper speed and gives a better advantage. always keep the rotation mode in fixed speed
+
+ATTACHMENTS: You should always have a good attachemts for your guns. Cause many guns have more recoil so using good attachments will reduce the recoil so you can steady your weapon more easily. Attachments like foregrip, Quickdraw will give you less recoil. and extend mag and fast mag gives you mag extension and faster reload. 
+
+
+
 
