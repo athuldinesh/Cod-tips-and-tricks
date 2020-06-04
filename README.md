@@ -8,7 +8,7 @@ this readme is about how to learn Call Of Duty Mobile. How to be a pro in COD Mo
 INTRODUCTION
   
   
-  Call of Duty Mobile is online multiplayer game which you can play with other players all over the world just like anyother battle royal game. In this we will learn how to be pro in COD Mobile. I've listed down few Tips and Tricks to be a good player in COD Mobile
+  Call of Duty Mobile is online multiplayer game which you can play with other players all over the world just like anyother battle royal game. In this we will learn how to be pro in COD Mobile. I'viferg tips and trickse listed down few Tips and Tricks to be a good player in COD Mobile
   
   PROBLEMS
   
@@ -50,7 +50,9 @@ MOTION SKILLSL: Motion skills is youor momemt. The main thing in this to slide a
 SENSITIVITY: When you increase the sensitivity you can will get a speed camera motion. When you turn the camera you can quickly do it. Make the sensitive in which you can play. In rotation mode you need to fix in fixed speed the momemt speed is set to 100 which is default in speed accelartion the speed is set to 140 the rotation. So fix your sensitive in a way where you can play. 
 in speed accelartion rotation mode when your drag your thumb from one side to another it'll move very fast. Fixed speed gives you the proper speed and gives a better advantage. always keep the rotation mode in fixed speed
 
-ATTACHMENTS: You should always have a good attachemts for your guns. Cause many guns have more recoil so using good attachments will reduce the recoil so you can steady your weapon more easily. Attachments like foregrip, Quickdraw will give you less recoil. and extend mag and fast mag gives you mag extension and faster reload. 
+ATTACHMENTS: You should always have a good attachemts for your guns. Cause many guns have more recoil so using good attachments will reduce the recoil so you can steady your weapon more easily. Attachments like foregrip, Quickdraw will give you less recoil. and extend mag and fast mag gives you mag extension and faster reload. When you're using scope attachment use RedDot cause you will get a better vision then the tatical scope and holographic scope and some guns doesn't need scope cause their iron sight gives you a better vision.
+
+
 
 
 
