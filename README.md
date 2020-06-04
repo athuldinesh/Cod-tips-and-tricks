@@ -6,19 +6,33 @@ this readme is about how to learn Call Of Duty Mobile. How to be a pro in COD Mo
                                     Solution
  
 INTRODUCTION
+  
+  
   Call of Duty Mobile is online multiplayer game which you can play with other players all over the world just like anyother battle royal game. In this we will learn how to be pro in COD Mobile. I've listed down few Tips and Tricks to be a good player in COD Mobile
   
   PROBLEMS
+  
+  
   Guns selection
+  
+  
   ScoreStreak and Perks 
+  
+  
   Awareness on MiniMap
+  
+  
   Motion Skills
+  
+  
   Sensitivity
   
   
   
   
 Solutions
+
+
 Gun selection : in gun selection you'll need a good loadout. Some guns doesnt have a good firing rate and have a recoil. so when ever you play always have a good loadout guns like HBr,Asm10,KN-44,AK117 has less recoil and good firing rate for close and long range. SMG's like MSMC, PWD and Pharo has good firing rate and less recoil. And some AR's have good close range better than SMG's. So always make a good loadout
 
 
